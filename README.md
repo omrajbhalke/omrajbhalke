@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development, AIML, Figma Designs
 - 🌱 I’m currently learning Full Stack Web Development, Java + DSA, Algorithms
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gmail: <a href:"omrajbhalke245@gmail.com">Gmail</a>
+- 📫 How to reach me gmail: omrajbhalke245@gmail.com
 - ⚡ Fun fact: ...
 
 <!---
