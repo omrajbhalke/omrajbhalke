@@ -34,8 +34,8 @@
             <li>Prototyping and wireframing for user-centered designs.</li>
         </ul>
     </ol>
-    <h2>📫 Get in Touch</h2>
-    <li>Connect with me on LinkedIn</li>
+    <h2>📫 Get in Touch</h2>  
+    <li>Connect with me on <a href="https://www.linkedin.com/in/omraj-bhalke-94408a259/">Linkedin</a></li>
     <!-- <li>Check out my portfolio here</li> -->
     <li>Check out my <a href="https://profile-card-omraj.netlify.app/">profile card</a> </li>
     <li>Feel free to reach me at omrajbhalke245@gmail.com for collaboration or questions!</li>
