@@ -1,4 +1,4 @@
-<h1>👋 Welcome to My GitHub Profile!</h1>
+    <h1>👋 Welcome to My GitHub Profile!</h1>
 Hi there! I'm a passionate software developer and problem solver who loves building efficient and scalable solutions. I'm proficient in multiple programming languages and algorithms, and I enjoy learning and experimenting with new technologies.
 
 <h2>🚀 About Me</h2>
@@ -8,7 +8,7 @@ Hi there! I'm a passionate software developer and problem solver who loves build
 <li>👨‍💻 I’m also interested in solving coding challenges on LeetCode and contributing to open-source projects.</li>
 <li>💡 My current focus is on data structures, algorithms, and system design, along with mastering full-stack development.</li>
 
-🔧 Technologies & Tools
+<h2>🔧 Technologies & Tools</h2>
 <li> C, C++, Python, Java, JavaScript</li>
 <li>Frameworks & Libraries: Node.js, React, Django, Swing</li>
 <li>Databases: MySQL, MongoDB, SQLite</li>
