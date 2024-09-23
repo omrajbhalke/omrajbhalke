@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <h1>👋 Welcome to My GitHub Profile!</h1>
+<h1>👋 Welcome to My GitHub Profile!</h1>
 Hi there! I'm a passionate software developer and problem solver who loves building efficient and scalable solutions. I'm proficient in multiple programming languages and algorithms, and I enjoy learning and experimenting with new technologies.
 
 <h2>🚀 About Me</h2>
@@ -37,7 +28,3 @@ Prototyping and wireframing for user-centered designs.
 Connect with me on LinkedIn
 Check out my portfolio here
 Feel free to reach me at your-email@example.com for collaboration or questions!
-
-
-</body>
-</html>
