@@ -11,7 +11,7 @@
     </li>
     <li>💡 My current focus is on data structures, algorithms, along with mastering full-stack development.</li>
     <h2>🔧 Technologies & Tools</h2>
-    <li>Languages: (Intermediate): C, Java, (Basics): C++, Python(basics),(Learning): JavaScript</li>
+    <li>Languages: (Intermediate): C, Java, (Basics): C++, Python, (Learning): JavaScript</li>
     <li>Frameworks & Libraries: Node.js(Learning), React(Learning)</li>
     <li>Databases: MySQL, MongoDB</li>
     <li>Other Tools: Git, GitHub, VS Code,
