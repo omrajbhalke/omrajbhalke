@@ -5,10 +5,8 @@
     <h2>🚀 About Me</h2>
     <li>🔭 I’m currently working on algorithms, including dynamic programming, sorting, searching, and graph theory.
     </li>
-    <li>🌱 I’m constantly learning and improving my skills in Java, Python, C, and JavaScript, and exploring UI/UX
-        design and databases like SQL and MongoDB.</li>
-    <li>👨‍💻 I’m also interested in solving coding challenges on LeetCode and contributing to open-source projects.
-    </li>
+    <li>🌱 I’m constantly learning and improving my skills in Java, Python, C, and JavaScript, and exploring UI/UX design and databases like SQL and MongoDB.</li>
+    <li>👨‍💻 I’m also interested in solving coding challenges on LeetCode and contributing to open-source projects.</li>
     <li>💡 My current focus is on data structures, algorithms, along with mastering full-stack development.</li>
     <h2>🔧 Technologies & Tools</h2>
     <li>Languages: (Intermediate): C, Java, (Basics): C++, Python, (Learning): JavaScript</li>
@@ -37,6 +35,6 @@
     <h2>📫 Get in Touch</h2>  
     <li>Connect with me on <a href="https://www.linkedin.com/in/omraj-bhalke-94408a259/">Linkedin</a></li>
     <!-- <li>Check out my portfolio here</li> -->
-    <li>Check out my <a href="https://profile-card-omraj.netlify.app/">profile card</a> </li>
+    <li>Check out my <a href="https://profile-card-omraj.netlify.app/">Profile Card</a> </li>
     <li>Feel free to reach me at omrajbhalke245@gmail.com for collaboration or questions!</li>
 
