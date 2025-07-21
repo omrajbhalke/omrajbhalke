@@ -1,41 +1,68 @@
-<h1>👋 Welcome to My GitHub Profile!</h1>
-    Hi there! I'm a passionate software developer and problem solver who loves building efficient and scalable
-    solutions. I'm proficient in multiple programming languages and algorithms, and I enjoy learning and experimenting
-    with new technologies.
-    <h2>🚀 About Me</h2>
-    <li>🔭 I’m currently working on algorithms, including dynamic programming, sorting, searching, and graph theory.
-    </li>
-    <li>🌱 I’m constantly learning and improving my skills in Python, C++, and JavaScript, and exploring UI/UX design and databases like SQL and MongoDB.</li>
-    <li>👨‍💻 I’m also interested in solving coding challenges on LeetCode and contributing to open-source projects.</li>
-    <li>💡 My current focus is on data structures, algorithms, along with mastering full-stack development.</li>
-    <h2>🔧 Technologies & Tools</h2>
-    <li>Languages: (Intermediate): C, C++, Python, (Learning): JavaScript</li>
-    <li>Frameworks & Libraries: Node.js(Learning), React(Learning)</li>
-    <li>Databases: MySQL, MongoDB</li>
-    <li>Other Tools: Git, GitHub, VS Code, IntelliJ IDEA</li>
-    <h2>💻 What I'm Currently Working On</h2>
-    <ol>
-        <li>Algorithms & Data Structures:</li>
-        <ul>
-            <li>Different algorithms (Sorting, Graph)</li>
-            <li>Solving CP questions and participating in contests.</li>
-        </ul>
-        <li>Full Stack Projects:</li>
-        <ul>
-            <li>Building projects with FlaskAPI and integrating ML models.</li>
-            <li>Learning and exploring more about mern and excited for more projects.</li>
-            <li>Desiginig different layouts, for gainig experience and new learning.</li>
-            <li>Cloning websites for practice and Understanding the different ways of doing same thing.</li>
-        </ul>
-        <li>Python and AI-ML</li>
-        <ul>
-            <li>Enrolling in different courses to gain more knowledge and experience by buliding real time projects.</li>
-            <li>Exploring more with ML with different projects.</li>
-        </ul>
-    </ol>
-    <h2>📫 Get in Touch</h2>  
-    <li>Connect with me on <a href="https://www.linkedin.com/in/omraj-bhalke-94408a259/">Linkedin</a></li>
-    <!-- <li>Check out my portfolio here</li> -->
-    <li>Check out my <a href="https://profile-card-omraj.netlify.app/">Profile Card</a> </li>
-    <li>Feel free to reach me at omrajbhalke245@gmail.com for collaboration or questions!</li>
+👋 Welcome to My GitHub Profile!
+Hey there! I'm Om Raj Bhalke, a passionate software developer and problem solver who enjoys building efficient, scalable solutions.
+I love working with data structures, algorithms, and exploring new technologies 🚀.
 
+🚀 About Me
+🔭 Currently Working On:
+Practicing algorithms like dynamic programming, graph theory, and advanced problem solving.
+
+🌱 Currently Learning:
+
+Languages: Python 🐍 | C++ ⚙️ | JavaScript 🌐
+
+Technologies: UI/UX 🎨 | SQL 🗄️ | MongoDB 🍃
+
+👨‍💻 Hobbies:
+
+Solving coding challenges on LeetCode 🏆
+
+Contributing to open-source projects 🌍
+
+Building real-world projects 💡
+
+💡 Current Focus:
+
+Data Structures & Algorithms 📊
+
+Full Stack Development 🌐 (Python, MERN Stack)
+
+🛠️ Tech Stack & Tools
+👨‍💻 Languages
+C | C++ | Python | JavaScript (learning)
+
+⚙️ Frameworks & Libraries
+Node.js (learning) | React (learning)
+
+🗄️ Databases
+MySQL | MongoDB
+
+💻 Developer Tools
+Git | GitHub | VS Code | IntelliJ IDEA
+
+💻 What I'm Currently Building
+📌 Algorithms & Competitive Programming
+Mastering sorting, graph algorithms, and dynamic programming
+
+Participating in CP contests and solving problems on LeetCode
+
+🌐 Full Stack Development
+Building Flask API projects and integrating Machine Learning models 🤖
+
+Learning the MERN stack and designing UI layouts
+
+Practicing by cloning websites for better design and architecture understanding
+
+🧠 Python & AI/ML
+Completing courses on AI/ML 📚
+
+Building real-world ML projects to gain hands-on experience
+
+📫 Let’s Connect
+💼 LinkedIn <!-- (Insert your link here) -->
+
+🧾 Profile Card <!-- (Optional link here) -->
+
+📧 Email: omrajbhalke245@gmail.com
+    — Feel free to reach out for collaborations, discussions, or just to connect!
+
+🔥 Thanks for stopping by — Happy Coding! 👨‍💻🎉
