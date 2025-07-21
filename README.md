@@ -1,68 +1,81 @@
-👋 Welcome to My GitHub Profile!
-Hey there! I'm Om Raj Bhalke, a passionate software developer and problem solver who enjoys building efficient, scalable solutions.
-I love working with data structures, algorithms, and exploring new technologies 🚀.
+# 👋 Welcome to My GitHub Profile!
 
-🚀 About Me
-🔭 Currently Working On:
-Practicing algorithms like dynamic programming, graph theory, and advanced problem solving.
+Hey there! I'm **Om Raj Bhalke**, a passionate **software developer** and **problem solver** who enjoys building **efficient**, **scalable** solutions.
+I love working with **data structures, algorithms**, and exploring **new technologies** 🚀.
 
-🌱 Currently Learning:
+---
 
-Languages: Python 🐍 | C++ ⚙️ | JavaScript 🌐
+## 🚀 About Me
 
-Technologies: UI/UX 🎨 | SQL 🗄️ | MongoDB 🍃
+* 🔭 **Currently Working On:**
+  Practicing **algorithms** like **dynamic programming**, **graph theory**, and **advanced problem solving**.
 
-👨‍💻 Hobbies:
+* 🌱 **Currently Learning:**
 
-Solving coding challenges on LeetCode 🏆
+  * **Languages:** Python 🐍 | C++ ⚙️ | JavaScript 🌐
+  * **Technologies:** UI/UX 🎨 | SQL 🗄️ | MongoDB 🍃
 
-Contributing to open-source projects 🌍
+* 👨‍💻 **Hobbies:**
 
-Building real-world projects 💡
+  * Solving **coding challenges** on **LeetCode** 🏆
+  * Contributing to **open-source projects** 🌍
+  * Building **real-world projects** 💡
 
-💡 Current Focus:
+* 💡 **Current Focus:**
 
-Data Structures & Algorithms 📊
+  * **Data Structures & Algorithms** 📊
+  * **Full Stack Development** 🌐 (Python, MERN Stack)
 
-Full Stack Development 🌐 (Python, MERN Stack)
+---
 
-🛠️ Tech Stack & Tools
-👨‍💻 Languages
-C | C++ | Python | JavaScript (learning)
+## 🛠️ Tech Stack & Tools
 
-⚙️ Frameworks & Libraries
-Node.js (learning) | React (learning)
+### 👨‍💻 Languages
 
-🗄️ Databases
-MySQL | MongoDB
+`C` | `C++` | `Python` | `JavaScript` *(learning)*
 
-💻 Developer Tools
-Git | GitHub | VS Code | IntelliJ IDEA
+### ⚙️ Frameworks & Libraries
 
-💻 What I'm Currently Building
-📌 Algorithms & Competitive Programming
-Mastering sorting, graph algorithms, and dynamic programming
+`Node.js` *(learning)* | `React` *(learning)*
 
-Participating in CP contests and solving problems on LeetCode
+### 🗄️ Databases
 
-🌐 Full Stack Development
-Building Flask API projects and integrating Machine Learning models 🤖
+`MySQL` | `MongoDB`
 
-Learning the MERN stack and designing UI layouts
+### 💻 Developer Tools
 
-Practicing by cloning websites for better design and architecture understanding
+`Git` | `GitHub` | `VS Code` | `IntelliJ IDEA`
 
-🧠 Python & AI/ML
-Completing courses on AI/ML 📚
+---
 
-Building real-world ML projects to gain hands-on experience
+## 💻 What I'm Currently Building
 
-📫 Let’s Connect
-💼 LinkedIn <!-- (Insert your link here) -->
+### 📌 **Algorithms & Competitive Programming**
 
-🧾 Profile Card <!-- (Optional link here) -->
+* Mastering **sorting**, **graph algorithms**, and **dynamic programming**
+* Participating in **CP contests** and solving problems on **LeetCode**
 
-📧 Email: omrajbhalke245@gmail.com
-    — Feel free to reach out for collaborations, discussions, or just to connect!
+### 🌐 **Full Stack Development**
 
-🔥 Thanks for stopping by — Happy Coding! 👨‍💻🎉
+* Building **Flask API** projects and integrating **Machine Learning models** 🤖
+* Learning the **MERN stack** and designing **UI layouts**
+* Practicing by **cloning websites** for better design and architecture understanding
+
+### 🧠 **Python & AI/ML**
+
+* Completing **courses** on **AI/ML** 📚
+* Building **real-world ML projects** to gain hands-on experience
+
+---
+
+## 📫 Let’s Connect
+
+* 💼 [**LinkedIn**](#) <!-- (Insert your link here) -->
+* 🧾 [**Profile Card**](#) <!-- (Optional link here) -->
+* 📧 **Email:** [omrajbhalke245@gmail.com](mailto:omrajbhalke245@gmail.com)
+      — *Feel free to reach out for **collaborations**, **discussions**, or just to **connect**!*
+
+---
+
+🔥 *Thanks for stopping by — Happy Coding!* 👨‍💻🎉
+
