@@ -1,41 +1,47 @@
-<h1>👋 Welcome to My GitHub Profile!</h1>
-    Hi there! I'm a passionate software developer and problem solver who loves building efficient and scalable
-    solutions. I'm proficient in multiple programming languages and algorithms, and I enjoy learning and experimenting
-    with new technologies.
-    <h2>🚀 About Me</h2>
-    <li>🔭 I’m currently working on algorithms, including dynamic programming, sorting, searching, and graph theory.
-    </li>
-    <li>🌱 I’m constantly learning and improving my skills in Python, C++, and JavaScript, and exploring UI/UX design and databases like SQL and MongoDB.</li>
-    <li>👨‍💻 I’m also interested in solving coding challenges on LeetCode and contributing to open-source projects.</li>
-    <li>💡 My current focus is on data structures, algorithms, along with mastering full-stack development.</li>
-    <h2>🔧 Technologies & Tools</h2>
-    <li>Languages: (Intermediate): C, C++, Python, (Learning): JavaScript</li>
-    <li>Frameworks & Libraries: Node.js(Learning), React(Learning)</li>
-    <li>Databases: MySQL, MongoDB</li>
-    <li>Other Tools: Git, GitHub, VS Code, IntelliJ IDEA</li>
-    <h2>💻 What I'm Currently Working On</h2>
-    <ol>
-        <li>Algorithms & Data Structures:</li>
-        <ul>
-            <li>Different algorithms (Sorting, Graph)</li>
-            <li>Solving CP questions and participating in contests.</li>
-        </ul>
-        <li>Full Stack Projects:</li>
-        <ul>
-            <li>Building projects with FlaskAPI and integrating ML models.</li>
-            <li>Learning and exploring more about mern and excited for more projects.</li>
-            <li>Desiginig different layouts, for gainig experience and new learning.</li>
-            <li>Cloning websites for practice and Understanding the different ways of doing same thing.</li>
-        </ul>
-        <li>Python and AI-ML</li>
-        <ul>
-            <li>Enrolling in different courses to gain more knowledge and experience by buliding real time projects.</li>
-            <li>Exploring more with ML with different projects.</li>
-        </ul>
-    </ol>
-    <h2>📫 Get in Touch</h2>  
-    <li>Connect with me on <a href="https://www.linkedin.com/in/omraj-bhalke-94408a259/">Linkedin</a></li>
-    <!-- <li>Check out my portfolio here</li> -->
-    <li>Check out my <a href="https://profile-card-omraj.netlify.app/">Profile Card</a> </li>
-    <li>Feel free to reach me at omrajbhalke245@gmail.com for collaboration or questions!</li>
+# Hi, I'm Omraj Bhalke 👋
 
+**Software Developer | Machine Learning Enthusiast | Problem Solver**
+
+I'm a final-year Information Science student who enjoys building systems that solve real problems. I work on everything from backend APIs and deployment pipelines to training and integrating ML models into production.
+
+I care about writing clean code, understanding how things work under the hood, and building software that's maintainable and scalable. I'm especially drawn to the intersection of machine learning and backend engineering — where models meet real-world systems.
+
+When I'm not coding, you'll find me watching F1 races, catching up on movies, or binge-watching anime.
+
+---
+
+## 🛠️ Tech I Use
+
+**Languages**  
+Python • C++ • JavaScript
+
+**Frameworks & Libraries**  
+Flask • FastAPI • React • PyTorch • Scikit-learn • OpenCV
+
+**Databases**  
+MongoDB • MySQL
+
+**DevOps & Tools**  
+Docker • Jenkins • Git • CI/CD pipelines • REST APIs
+
+---
+
+## 📫 Get in Touch
+
+[![LinkedIn](https://img.shields.io/badge/-Omraj%20Bhalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omraj-bhalke-94408a259/)](https://www.linkedin.com/in/omraj-bhalke-94408a259/)
+[![GitHub](https://img.shields.io/badge/-omrajbhalke-181717?style=flat-square&logo=github&link=https://github.com/omrajbhalke)](https://github.com/omrajbhalke)
+[![Email](https://img.shields.io/badge/-omrajbhalke245@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omrajbhalke245@gmail.com)](mailto:omrajbhalke245@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white&link=https://profile-card-omraj.netlify.app/)](https://profile-card-omraj.netlify.app/)
+
+*Take a look at my repositories and let's get in touch!*
+
+---
+
+<div align="center">
+  
+I enjoy learning, building, and working with people who care about their craft.  
+Always open to interesting conversations about tech, ML, or software engineering.
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omrajbhalke)
+
+</div>
