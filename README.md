@@ -31,7 +31,7 @@ Docker • Jenkins • Git • CI/CD pipelines • REST APIs
 [![LinkedIn](https://img.shields.io/badge/-Omraj%20Bhalke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omraj-bhalke-94408a259/)](https://www.linkedin.com/in/omraj-bhalke-94408a259/)
 [![GitHub](https://img.shields.io/badge/-omrajbhalke-181717?style=flat-square&logo=github&link=https://github.com/omrajbhalke)](https://github.com/omrajbhalke)
 [![Email](https://img.shields.io/badge/-omrajbhalke245@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:omrajbhalke245@gmail.com)](mailto:omrajbhalke245@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white&link=https://profile-card-omraj.netlify.app/)](https://profile-card-omraj.netlify.app/)
+[![Profile Card](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=google-chrome&logoColor=white&link=https://profile-card-omraj.netlify.app/)](https://profile-card-omraj.netlify.app/)
 
 *Take a look at my repositories and let's get in touch!*
 
@@ -41,7 +41,5 @@ Docker • Jenkins • Git • CI/CD pipelines • REST APIs
   
 I enjoy learning, building, and working with people who care about their craft.  
 Always open to interesting conversations about tech, ML, or software engineering.
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=omrajbhalke)
 
 </div>
