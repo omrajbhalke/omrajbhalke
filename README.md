@@ -1,6 +1,6 @@
 # Hi, I'm Omraj Bhalke 👋
 
-**Software Developer | Machine Learning Enthusiast | Problem Solver**
+**Web Developer | Machine Learning Enthusiast | Problem Solver | Formula 1 Enthusiast 🏎️**
 
 I'm a final-year Information Science student who enjoys building systems that solve real problems. I work on everything from backend APIs and deployment pipelines to training and integrating ML models into production.
 
