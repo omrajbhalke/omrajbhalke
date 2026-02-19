@@ -4,7 +4,7 @@
 
 I'm a final-year Information Science student who enjoys building systems that solve real problems. I work on everything from backend APIs and deployment pipelines to training and integrating ML models into production.
 
-I care about writing clean code, understanding how things work under the hood, and building software that's maintainable and scalable. I'm especially drawn to the intersection of machine learning and backend engineering — where models meet real-world systems.
+I care about writing clean code, understanding how things work under the hood, and building software that's maintainable and scalable. 
 
 When I'm not coding, you'll find me watching F1 races, catching up on movies, or binge-watching anime.
 
@@ -16,7 +16,7 @@ When I'm not coding, you'll find me watching F1 races, catching up on movies, or
 Python • C++ • JavaScript
 
 **Frameworks & Libraries**  
-Flask • FastAPI • React • PyTorch • Scikit-learn • OpenCV
+Flask • React • PyTorch • Scikit-learn • OpenCV
 
 **Databases**  
 MongoDB • MySQL
