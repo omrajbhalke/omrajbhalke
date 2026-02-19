@@ -40,6 +40,6 @@ Docker • Jenkins • Git • CI/CD pipelines • REST APIs
 <div align="center">
   
 I enjoy learning, building, and working with people who care about their craft.  
-Always open to interesting conversations about tech, ML, or software engineering.
+Always open to interesting conversations about tech, ML, or Formula 1.
 
 </div>
