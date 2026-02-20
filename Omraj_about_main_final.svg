@@ -1,0 +1,116 @@
+<svg viewBox="0 0 1200 360" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <style>
+    .draw-text {
+      fill: none;
+      stroke: #1F61A5;
+      stroke-width: 4;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 1800;
+      stroke-dashoffset: 1800;
+      animation: draw 4s ease forwards;
+    }
+
+    .fill-text {
+      fill: #1F61A5;
+      opacity: 0;
+      animation: fillIn 1.5s ease forwards;
+      animation-delay: 0.5s;
+    }
+
+    @keyframes draw {
+      to { stroke-dashoffset: 0; }
+    }
+
+    @keyframes fillIn {
+      to { opacity: 1; }
+    }
+  </style>
+
+  <!-- omraj2 on top -->
+  <text x="50" y="200"
+        font-family="Segoe Script"
+        font-size="140"
+        class="draw-text">
+    Omraj Bhalke
+  </text>
+  <text x="50" y="200"
+        font-family="Segoe Script"
+        font-size="140"
+        class="fill-text">
+    Omraj Bhalke
+  </text>
+
+  <!-- about-final below, centered and scaled to fit 1200 width -->
+  <g transform="translate(250, 290) scale(1, 1)">
+    <!-- Line 1 -->
+    <path id='path0'>
+        <animate id='d0' attributeName='d' begin='1.5s;d3.end'
+            dur='3500ms' fill='remove'
+            values='m0,30 h0 ; m0,30 h700 ; m0,30 h700 ; m0,30 h0'
+            keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"monospace", monospace'
+        fill='#1F61A5'
+        font-size='45'
+        dominant-baseline='middle'
+        x='25%' text-anchor='middle'>
+        <textPath xlink:href='#path0'>
+            Full-Stack Developer
+        </textPath>
+    </text>
+
+    <!-- Line 2 -->
+    <path id='path1'>
+        <animate id='d1' attributeName='d' begin='d0.end'
+            dur='3500ms' fill='remove'
+            values='m0,30 h0 ; m0,30 h700 ; m0,30 h700 ; m0,30 h0'
+            keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"monospace", monospace'
+        fill='#1F61A5'
+        font-size='45'
+        dominant-baseline='middle'
+        x='30%' text-anchor='middle'>
+        <textPath xlink:href='#path1'>
+            Machine Learning Enthusiast
+        </textPath>
+    </text>
+
+    <!-- Line 3 -->
+    <path id='path2'>
+        <animate id='d2' attributeName='d' begin='d1.end'
+            dur='3500ms' fill='remove'
+            values='m0,30 h0 ; m0,30 h700 ; m0,30 h700 ; m0,30 h0'
+            keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"monospace", monospace'
+        fill='#1F61A5'
+        font-size='45'
+        dominant-baseline='middle'
+        x='25%' text-anchor='middle'>
+        <textPath xlink:href='#path2'>
+            Problem Solver
+        </textPath>
+    </text>
+
+    <!-- Line 4 -->
+    <path id='path3'>
+        <animate id='d3' attributeName='d' begin='d2.end'
+            dur='3500ms' fill='remove'
+            values='m0,30 h0 ; m0,30 h700 ; m0,30 h700 ; m0,30 h0'
+            keyTimes='0;0.6;0.85;1' />
+    </path>
+    <text font-family='"monospace", monospace'
+        fill='#1F61A5'
+        font-size='45'
+        dominant-baseline='middle'
+        x='25%' text-anchor='middle'>
+        <textPath xlink:href='#path3'>
+            Formula 1 Enthusiast 🏎️
+        </textPath>
+    </text>
+  </g>
+
+</svg>
