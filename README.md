@@ -2,8 +2,10 @@
 
 <img src="https://cdn.jsdelivr.net/gh/omrajbhalke/omrajbhalke@main/Omraj_about_main_final.svg" alt="Omraj Bhalke" width="100%"/>
 
-I'm a final-year Information Science student who enjoys building systems that solve real problems. I work on everything from backend APIs and deployment pipelines to training and integrating ML models into production.
+I'm a final-year Information Science student who enjoys building systems that solve real problems. 
+
 I care about writing clean code, understanding how things work under the hood, and building software that's maintainable and scalable. 
+
 When I'm not coding, you'll find me watching F1 races, catching up on movies, or binge-watching web series.
 
 ---
@@ -43,4 +45,3 @@ Always open to interesting conversations about tech, ML, or Formula 1.
 </div>
 
 <img src="https://cdn.jsdelivr.net/gh/omrajbhalke/omrajbhalke@main/header_gameoflife_final.svg" alt="Game of Life" width="100%"/>
-```
