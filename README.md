@@ -6,7 +6,7 @@ I'm a final-year Information Science student who enjoys building systems that so
 
 I care about writing clean code, understanding how things work under the hood, and building software that's maintainable and scalable. 
 
-When I'm not coding, you'll find me watching F1 races, catching up on movies, or binge-watching anime.
+When I'm not coding, you'll find me watching F1 races, catching up on movies, or binge-watching web series.
 
 ---
 
